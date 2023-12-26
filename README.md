@@ -56,23 +56,3 @@ I've been learning to code for the past 4 years. I have experience with game dev
 <a href="https://github.com/kristianhnielsen" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianhnielsen&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center">
-    <a href="https://github.com/kristianhnielsen/portfolio-website" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kristianhnielsen&repo=portfolio-website&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-    <a href="https://github.com/kristianhnielsen/brew-masters" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kristianhnielsen&repo=brew-masters&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
-<br /><br /><br /><br /><br /><br /><br />
-<div width="100%" align="center">
-    <a href="https://github.com/kristianhnielsen/adhd-konsulent-astro" align="right">
-        <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kristianhnielsen&repo=adhd-konsulent-astro&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-    <a href="https://github.com/kristianhnielsen/news-distributor" align="left">
-        <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kristianhnielsen&repo=news-distributor&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" />
-    </a>
-</div>
